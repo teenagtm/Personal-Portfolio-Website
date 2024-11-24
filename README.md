@@ -16,3 +16,8 @@ This is my personal portfolio website, built using **Frontend** and hosted on **
 - **JavaScript**
 - **Visual Studio Code**
 
+## Live Demo
+
+🔹 Visit the live demo of my portfolio website [here](https://teenagtm.github.io/Personal-Portfolio-Website/).
+
+
